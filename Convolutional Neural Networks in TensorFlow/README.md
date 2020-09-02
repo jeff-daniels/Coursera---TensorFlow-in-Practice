@@ -11,3 +11,5 @@ Data augmentation was used in the ImageDataGenerator function to essentially cre
 The Inception V3 model was used in a transfer learning application.  The pretrained model was left untrained and a trainable layers were added at the output of the second to last convolutional layer.  Dropout was also applied to the trainable layers to avoid overfitting and also made the validation accuracy higher thant the training accuracy.  
 [Cats vs. Dogs using Transfer Learning](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)  
 [Transfer learning and fine-tuning](https://www.tensorflow.org/tutorials/images/transfer_learning)
+#### Exercise 4: Multi-Class Classifier  
+[Rock Paper Scissors Classifier](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb)
