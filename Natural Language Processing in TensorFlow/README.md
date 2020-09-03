@@ -5,3 +5,5 @@
 - [Padding](https://github.com/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%202.ipynb)  
 - [News Headlines Dataset for Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/home)  
 - [Sarcasm Detection](https://github.com/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%201%20-%20Lesson%203.ipynb)  
+[BBC Text Archive](http://mlg.ucd.ie/datasets/bbc.html)  
+[Stop Words](https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js)  
