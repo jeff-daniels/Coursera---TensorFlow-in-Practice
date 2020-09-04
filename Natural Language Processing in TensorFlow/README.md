@@ -15,11 +15,11 @@ Building upon the previous exercise, the BBC News Archive was used to train a mo
 - [Embeddings on the Sarcasm Dataset](https://github.com/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Lesson%202.ipynb)  
 - [Subwords on the IMDB Dataset](https://github.com/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Lesson%203.ipynb)  
 ## Exercise 3-Exploring Overfitting in NLP  
+A sentiment classifier was built using a model with an LSTM layer combined with 1D convolutional and max pooling layers.  A dropout layer was also used in an attempt to reduce overfitting.  The dataset was [Sentiment140 Dataset](https://www.kaggle.com/kazanova/sentiment140).  The [GloVe Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) was used as a pre-trained embedding layer.  
 - [IMDB Subwords 8K with Single Layer LSTM](https://github.com/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201a.ipynb)  
 - [IMDB Subwords 8K with Multi Layer LSTM](https://github.com/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201b.ipynb)  
 - [IMDB Subwords 8K with 1D Convolutional Layer](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%201c.ipynb)  
 - [IMDB Reviews with GRU (and optional LSTM and Conv1D)](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202d.ipynb#scrollTo=nHGYuU4jPYaj)  
 - [Sarcasm with Bidirectional LSTM](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202.ipynb#scrollTo=g9DC6dmLF8DC)  
 - [Sarcasm with 1D Convolutional Layer](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202c.ipynb#scrollTo=g9DC6dmLF8DC)  
-- [Sentiment140 Dataset](https://www.kaggle.com/kazanova/sentiment140)
-- [GloVe Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+
