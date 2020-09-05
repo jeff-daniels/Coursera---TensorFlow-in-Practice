@@ -23,6 +23,8 @@ A sentiment classifier was built using a model with an LSTM layer combined with 
 - [Sarcasm with Bidirectional LSTM](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202.ipynb#scrollTo=g9DC6dmLF8DC)  
 - [Sarcasm with 1D Convolutional Layer](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202c.ipynb#scrollTo=g9DC6dmLF8DC)  
 ## Exercise 4-Using LSTMs, see if you can write Shakespeare!  
-- [Poetry Generator](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%204%20-%20Lesson%201%20-%20Notebook.ipynb)
+- [Poetry Generator](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%204%20-%20Lesson%201%20-%20Notebook.ipynb)  
+- [Poetry Generator on Larger Dataset](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%204%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=Ww-QdMf4pfS_)
+- [Generating text using a character-based RNN](https://www.tensorflow.org/tutorials/text/text_generation)  
 
 
