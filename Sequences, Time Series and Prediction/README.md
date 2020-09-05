@@ -1,2 +1,2 @@
 # Sequences, Time Series and Prediction  
-## Exercise-1 Reate and Predict Synthetic Data  
+## Exercise-1 Create and Predict Synthetic Data  
