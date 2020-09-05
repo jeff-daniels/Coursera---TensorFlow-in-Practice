@@ -22,4 +22,6 @@ A sentiment classifier was built using a model with an LSTM layer combined with 
 - [IMDB Reviews with GRU (and optional LSTM and Conv1D)](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202d.ipynb#scrollTo=nHGYuU4jPYaj)  
 - [Sarcasm with Bidirectional LSTM](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202.ipynb#scrollTo=g9DC6dmLF8DC)  
 - [Sarcasm with 1D Convolutional Layer](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%203%20-%20Lesson%202c.ipynb#scrollTo=g9DC6dmLF8DC)  
+## Exercise 4-Using LSTMs, see if you can write Shakespeare!  
+
 
