@@ -8,3 +8,5 @@ A time series was created and features trend, seasonality and noise.  A naive pr
 - [Single Layer Neural Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%202%20Lesson%202.ipynb)  
 - [Deep Neural Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%202%20Lesson%203.ipynb)  
 ## Exercise 3-Predict with an RNN  
+[RNN Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%203%20Lesson%202%20-%20RNN.ipynb)  
+
