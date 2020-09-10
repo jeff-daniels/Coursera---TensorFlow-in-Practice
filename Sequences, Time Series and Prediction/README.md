@@ -10,8 +10,9 @@ This time predictions of the time series were made.  With a moving window size o
 - [Deep Neural Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%202%20Lesson%203.ipynb)  
 ## Exercise 3-Predict with an RNN  
 Predictions of the synthetic time series were done using an RNN.  A LearningRateScheduler was used as a callback to increase the size of the learning rate as the number of epochs increased.  Comparing the history of the learning rate and the loss, a fixed learning rate was chosen for a SGD optimizer.  
-[RNN Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%203%20Lesson%202%20-%20RNN.ipynb)  
-[LSTM Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%203%20Lesson%204%20-%20LSTM.ipynb)  
+- [RNN Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%203%20Lesson%202%20-%20RNN.ipynb)  
+- [LSTM Network](https://github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%203%20Lesson%204%20-%20LSTM.ipynb)  
 ## Exercise 4-Sunspots  
+- [Conv1D and 2-layer LSTM Network](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%204%20Lesson%201.ipynb)  
 
 
